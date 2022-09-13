@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    color: white;
+    background-color: rgb(44, 63, 148); 
+}
+.converter{
+    width: max-content;
+    margin: 15% auto ;
+    padding: 20px;  
+}
+.converter_form{
+    padding: 20px;
+    height: 150px;
+    margin: 0 auto;
+    display: inline-block;
+}
+.converter_form div label{
+    margin-bottom: 10px;
+}
+.converter_form div input{
+    margin-bottom: 20px;
+    border-radius: 5px;
+    padding: 5px;
+}
+.BitcoinPriceContainer{
+    display: inline-block;
+}
+   
+
